@@ -21,13 +21,6 @@ Function IsValidEmail {
 
    IsValidEmail $v_MailAddress
    
-   test
+
    
    #this is a test to push script via powershell
-   skdgnflksdfmsd
-   sdf
-   sd
-   f
-sdgds
-g
-sdg
